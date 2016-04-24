@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Prezi Visual Resume"
+date:   2016-04-23 20:26:24 -0700
+categories: resume prezi
+---
+As a long time product and marketing manager I have a long relationship with Microsoft PowerPoint. It's been a mostly positive experience but I've been keenly aware of it's constraints and tendency to be misused. Presentations can potentially overly abstract, distract, and bore an audience from your message and information. 
+
+One of the great assessments of PowerPoint in an engineering context was done by Edward R. Tufte's essay, [The Cognitive Style of PowerPoint: Pitching Out Corrupts Within][edwardt-powerpoint].
+
+At a recent job interview I was asked to present for 45 minutes on my background and skills and so yet again I was faced with the old sidekick to gather my storyboard and imagery. However this time I decided to apply Prezi and it's Z-dimentionality to help retain context and theme that might be otherwise lost using PoerPoint's tendency to serialize information.  
+
+The result is here, what I call a [Visual Resume][troys-prezi]. It's an early effort and so I'm sure I will find ways to improve it but I think it does provide at least a more unique experience to an audience and that alone helps make it memorable! 
+
+[troys-prezi]: http://prezi.com/j3xwvnle0_48/?utm_campaign=share&utm_medium=copy&rc=ex0share 
+[edwardt-powerpoint]: http://www.edwardtufte.com/tufte/powerpoint
