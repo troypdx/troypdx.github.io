@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 4130
+email: troy_pdx@fastmail.fm
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Why 4130? It's a grade of cro-moly steel that's become popular for affordable bicycles that tend to have better ride characteristics than the mass produced alluminum. I think this blog, like 4130, will be a modest but reliable information resource for people who love to tinker with computers and happen to be in the business of marketing high-technology. Steel is Real! 
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "troypdx.github.io" # the base hostname & protocol for your site
+twitter_username: troy_pdx
+github_username: troypdx
+linkedin_username: troyscott
 
 # Build settings
 markdown: kramdown
