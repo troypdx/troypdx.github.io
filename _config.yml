@@ -6,10 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 4130
+title: 4130 Blog
 email: troy_pdx@fastmail.fm
 description: > # this means to ignore newlines until "baseurl:"
   Why 4130? It's a grade of cro-moly steel that's become popular for affordable bicycles that tend to have better ride characteristics than the mass produced alluminum. I think this blog, like 4130, will be a modest but reliable information resource for people who love to tinker with computers and happen to be in the business of marketing high-technology. Steel is Real! 
+
+Copyright (C) 2016 Troy Scott
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "troypdx.github.io" # the base hostname & protocol for your site
