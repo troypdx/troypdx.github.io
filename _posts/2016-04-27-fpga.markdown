@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "FPGA Topic Articles"
+date:   2016-04-27 12:05:44 -0700
+categories: fpga pld power
+---
+LinkedIn is OK for gathering your professional profile together but over time I've contributed several industry articles and would like to put them into collections by topic. 
+
+![I was lucky to help work on marketing and promtion of FPGAs like Lattice's "Do-It-All MachXO Family]({{ troypdx.github.io }}/assets/latticemachxo.jpg)
+
+Here's the first collection of articles on FPGA and programmable design best practices:
+
+ - [Optimizing FPGA Design Flow - Chip Design][optimizingfpga]
+ - [Legacy FPGA Designs can be Migrated to Achieve Better Performance - ChipDesign][legacyfpga]
+ - [Tackle Team-Based FPGA Design - Embedded][teamfpga]
+ - [FPGA Performance and Design Constraints - Electronic Product Design][fpgacontraints]
+ - [Power Saving Measures for Programmable Logic Designers][lowpowerpld]
+ - [Programmable Power Circuits Improve Reliablity, Cut Cost][programmablepower]
+
+[optimizingfpga]: http://chipdesignmag.com/display.php?articleId=340&issueId=0
+[legacyfpga]: http://chipdesignmag.com/display.php?articleId=566&issueId=17
+[teamfpga]: http://www.embedded.com/design/prototyping-and-development/4006525/Tackle-team-based-FPGA-design
+[fpgacontraints]: http://www.epdtonthenet.net/article/17816/FPGA-performance-and-design-constraints.aspx
+[lowpowerpld]: http://low-powerdesign.com/article_lattice_scott.htm
+[programmablepower]: http://low-powerdesign.com/article_lattice_scott.htm
+
+

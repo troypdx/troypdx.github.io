@@ -10,7 +10,7 @@ One of the great assessments of PowerPoint in an engineering context was done by
 
 At a recent job interview I was asked to present for 45 minutes on my background and skills and so yet again I was faced with the old sidekick to gather my storyboard and imagery. However this time I decided to apply Prezi and it's Z-dimensionality to help retain context and theme that might be otherwise lost using PowerPoint's tendency to serialize information.  
 
-[Prezi.com's edit and viewing interface]({{ troypdx.github.io }}/assets/prezi-screenshot.jpg)
+![Prezi.com's edit and viewing interface]({{ troypdx.github.io }}/assets/prezi-screenshot.jpg)
 
 The result is here, what I call a [Visual Resume][troys-prezi]. It's an early effort and so I'm sure I will find ways to improve it but I think it does provide at least a more unique experience to an audience and that alone helps make it more memorable! 
 
