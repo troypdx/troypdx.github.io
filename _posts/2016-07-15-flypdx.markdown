@@ -9,11 +9,11 @@ Enjoy Kodi? Me too.
 
 Recently I've been digging into Python and it's potential for use in an IoT stack. As part of my tinkering and learning to adopt key functionality like using OOP style code organization, regular expressions, and using other's modular libraries I thought I'd try my hand at a new plugin for Kodi.
 
-You can find Fly PDX at the plugin.program.flypdx repository on [GitHub][GitHub-flypdx].
+You can find Fly PDX at the https://github.com/troypdx/plugin.program.flypdx repository on GitHub.
 
 ![Arrival and Departure Table](http://i.imgur.com/2SHdbV2.png)
 ![Add-on Settings to adjust Filters](http://i.imgur.com/xtDAHEB.png)
 
 Enjoy!
 
-[GitHub-flypdx]: https://github.com/troypdx/plugin.program.flypdx
+https://github.com/troypdx/plugin.program.flypdx
