@@ -4,9 +4,9 @@ title:  "FPGA Topic Articles"
 date:   2016-04-27 12:05:44 -0700
 categories: fpga pld power
 ---
-LinkedIn is OK for gathering your professional profile together but over time I've contributed several industry articles and would like to put them into collections by topic. 
+LinkedIn is OK for gathering your professional profile together but over time I've contributed several industry articles and would like to put them into collections by topic.
 
-![I was lucky to help work on marketing and promtion of FPGAs like Lattice's "Do-It-All MachXO Family]({{ troypdx.github.io }}/assets/latticemachxo.jpg)
+![I was lucky to help work on marketing and promotion of FPGAs like Lattice's "Do-It-All MachXO Family]({{ troypdx.github.io }}/assets/latticemachxo.jpg)
 
 Here's the first collection of articles on FPGA and programmable design best practices:
 
@@ -23,5 +23,3 @@ Here's the first collection of articles on FPGA and programmable design best pra
 [fpgacontraints]: http://www.epdtonthenet.net/article/17816/FPGA-performance-and-design-constraints.aspx
 [lowpowerpld]: http://low-powerdesign.com/article_lattice_scott.htm
 [programmablepower]: http://low-powerdesign.com/article_lattice_scott.htm
-
-
