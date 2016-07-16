@@ -15,4 +15,5 @@ You can find Fly PDX at the plugin.program.flypdx repository on [GitHub][GitHub-
 ![Add-on Settings to adjust Filters](http://i.imgur.com/xtDAHEB.png)
 
 Enjoy!
+
 [GitHub-flypdx]: https://github.com/troypdx/plugin.program.flypdx
